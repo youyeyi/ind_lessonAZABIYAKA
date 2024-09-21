@@ -1,4 +1,3 @@
-﻿
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
@@ -11,7 +10,6 @@ int main()
     printf("Enter: ");
     scanf_s("%d", &number);
     printf("%d", number);
-
     return 0;
 }
 
