@@ -7,7 +7,7 @@
 int main()
 {
     
-    printf("Welcome to New Programm! There is no functional yet");
+    printf("Welcome to New Application! There is no functionality yet");
 
     return 0;
 }
